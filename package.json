@@ -1,6 +1,6 @@
 {
   "name": "is-fifteen",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Package checks if a number is 15 numerically. Returns true or false approprietly.",
   "main": "index.js",
   "scripts": {
